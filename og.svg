@@ -1,0 +1,26 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#171717"/>
+  <path d="M0 0h1200v630H0z" fill="url(#grid)" opacity=".35"/>
+  <circle cx="1000" cy="60" r="240" fill="#fe391f" opacity=".18"/>
+  <rect x="662" y="86" width="426" height="458" rx="8" fill="#202020" stroke="#383838"/>
+  <rect x="700" y="132" width="350" height="54" rx="4" fill="#111"/>
+  <rect x="700" y="222" width="146" height="146" rx="73" fill="#171717" stroke="#fe391f" stroke-width="18"/>
+  <rect x="884" y="232" width="126" height="18" rx="4" fill="#fe391f"/>
+  <rect x="884" y="274" width="166" height="14" rx="4" fill="#666"/>
+  <rect x="884" y="310" width="132" height="14" rx="4" fill="#666"/>
+  <rect x="700" y="410" width="350" height="20" rx="4" fill="#383838"/>
+  <rect x="700" y="454" width="285" height="20" rx="4" fill="#383838"/>
+  <rect x="700" y="498" width="320" height="20" rx="4" fill="#383838"/>
+  <rect x="80" y="84" width="64" height="64" rx="8" fill="#fe391f"/>
+  <text x="112" y="125" text-anchor="middle" fill="#000" font-family="Mulish, Arial, sans-serif" font-size="25" font-weight="900">EW</text>
+  <text x="80" y="218" fill="#fff" font-family="Mulish, Arial, sans-serif" font-size="76" font-weight="900">Elit-Web Audit AI</text>
+  <text x="80" y="306" fill="#fe391f" font-family="Mulish, Arial, sans-serif" font-size="58" font-weight="900">реальний SEO-аудит</text>
+  <text x="80" y="374" fill="#cccccc" font-family="Mulish, Arial, sans-serif" font-size="34" font-weight="700">On-page • PageSpeed • Serpstat API</text>
+  <rect x="80" y="452" width="410" height="56" rx="4" fill="#fe391f"/>
+  <text x="104" y="489" fill="#000" font-family="Mulish, Arial, sans-serif" font-size="22" font-weight="900">тільки фактичні дані</text>
+  <defs>
+    <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse">
+      <path d="M54 0H0V54" stroke="#fff" stroke-opacity=".12"/>
+    </pattern>
+  </defs>
+</svg>
